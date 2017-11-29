@@ -1,0 +1,12 @@
+:::::::::Project Proposal :::::::
+Team Members : Sadhana, Jason, Ashley, Abhi
+Project Name : Effect of natural disasters on gas prices
+Project Description : As part of this project we want to find out if there is any correlation between the type of natural disaster and change in gas prices in the wake of it.
+Research question to answer : 
+a)  If gas prices are affected by natural disaster at all.
+b)  If different disasters affect gas prices differently.
+c)  If disaster happening in one place affecting gas prices more than the other
+Datasets to be used : https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm https://www.kaggle.com/fema/federal-disasters
+Rough breadown of tasks : Data collection, Data cleansing, Building dataframes, plots/observing trends, finding correlations and answering questions
+
+
